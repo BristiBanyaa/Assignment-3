@@ -1,0 +1,29 @@
+.firstdiv
+{
+    background-color: gray;
+    height: 500px;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first
+{
+    background-color: red;
+    width:15%;
+    height: 300px;
+}
+.secdiv
+{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    
+}
+.second{
+    height: 300px;
+    width: 20%;
+    display: inline-block;
+    margin: 30px;
+    background-color: gray;
+}
